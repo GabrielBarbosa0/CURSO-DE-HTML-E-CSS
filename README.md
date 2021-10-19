@@ -1,1 +1,1 @@
-Esse é um repositorio voltado para mostrar minha evolução em htm e css.
+Esse é um repositorio voltado para mostrar minha evolução em HTML e CSS.
